@@ -2,6 +2,9 @@
 
 # Mars Exploration Through NASA Data
 
+> [!IMPORTANT]
+> **Notice for Hackathon Judges:** We have created this repository to fulfill the submission requirement for a source code link. We are currently in the initial conceptualization and design phase and **have not yet started the coding phase**. All project code will be uploaded here once the development begins. Thank you for your understanding!
+
 ## 🚀 Project Overview
 
 Welcome to our Mars Exploration Project, built for the NASA Space Apps Challenge! 🌌
