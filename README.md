@@ -55,9 +55,13 @@ The final technology stack will be selected based on project requirements. Poten
 
 ## 👥 Team
 
-This project is being developed collaboratively by our hackathon team.
+This project is being developed collaboratively by our hackathon team:
 
-Team member names and individual responsibilities will be added as the project progresses.
+* **Md. Amzadullah Ratul** (@Amzadullah)
+* **mosrat-jahan** (@mosrat-jahan)
+* **Md. Nuruzzaman Nirob** (@Nirob252)
+* **Shakila Akter Alo** (@shakila-akter)
+* **MD.SHAMS-IBNE-MOHSIN** (@themediumguy05)
 
 ## 📌 Current Progress
 
