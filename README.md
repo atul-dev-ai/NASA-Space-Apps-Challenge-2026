@@ -1,3 +1,5 @@
+![Part Logo](part_logo.jpeg)
+
 # Mars Exploration Through NASA Data
 
 ## 🚀 Project Overview
