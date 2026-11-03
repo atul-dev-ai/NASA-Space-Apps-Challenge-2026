@@ -60,18 +60,19 @@ The final technology stack will be selected based on project requirements. Poten
 
 This project is being developed collaboratively by our hackathon team:
 
-* **Md. Amzadullah Ratul** (@Amzadullah)
-* **mosrat-jahan** (@mosrat-jahan)
-* **Md. Nuruzzaman Nirob** (@Nirob252)
-* **Shakila Akter Alo** (@shakila-akter)
-* **MD.SHAMS-IBNE-MOHSIN** (@themediumguy05)
+* **Atul Paul** ([@atul-dev-ai](https://github.com/atul-dev-ai))
+* **Md. Amzadullah Ratul** ([@Amzadullah](https://github.com/Amzadullah))
+* **mosrat-jahan** ([@mosrat-jahan](https://github.com/mosrat-jahan))
+* **Md. Nuruzzaman Nirob** ([@Nirob252](https://github.com/Nirob252))
+* **Shakila Akter Alo** ([@shakila-akter](https://github.com/shakila-akter))
+* **MD.SHAMS-IBNE-MOHSIN** ([@themediumguy05](https://github.com/themediumguy05))
 
 ## 📌 Current Progress
 
 * [x] Created the GitHub repository.
 * [ ] Finalized the project scope and core problem statement.
 * [ ] Verified the selected NASA datasets.
-* [ ] Designed the project architecture.
+* [x] Designed the project architecture.
 * [ ] Implemented the initial prototype.
 * [ ] Tested the project using real NASA data.
 * [ ] Prepared the final demonstration.
@@ -89,4 +90,4 @@ Depending on the availability of data and development time, future improvements 
 
 ## 📄 License
 
-A suitable open-source license will be selected before public release.
+This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE.md).
