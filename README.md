@@ -60,12 +60,63 @@ The final technology stack will be selected based on project requirements. Poten
 
 This project is being developed collaboratively by our hackathon team:
 
-* **Atul Paul** ([@atul-dev-ai](https://github.com/atul-dev-ai))
-* **Md. Amzadullah Ratul** ([@Amzadullah](https://github.com/Amzadullah))
-* **mosrat-jahan** ([@mosrat-jahan](https://github.com/mosrat-jahan))
-* **Md. Nuruzzaman Nirob** ([@Nirob252](https://github.com/Nirob252))
-* **Shakila Akter Alo** ([@shakila-akter](https://github.com/shakila-akter))
-* **MD.SHAMS-IBNE-MOHSIN** ([@themediumguy05](https://github.com/themediumguy05))
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/atul-dev-ai">
+        <img src="https://github.com/atul-dev-ai.png" width="100" alt="Atul Paul" /><br />
+        <sub><b>Atul Paul</b></sub>
+      </a><br />
+      <a href="https://github.com/atul-dev-ai"><sub>@atul-dev-ai</sub></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Amzadullah">
+        <img src="https://github.com/Amzadullah.png" width="100" alt="Md. Amzadullah Ratul" /><br />
+        <sub><b>Md. Amzadullah Ratul</b></sub>
+      </a><br />
+      <a href="https://github.com/Amzadullah"><sub>@Amzadullah</sub></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/mosrat-jahan">
+        <img src="https://github.com/mosrat-jahan.png" width="100" alt="mosrat-jahan" /><br />
+        <sub><b>mosrat-jahan</b></sub>
+      </a><br />
+      <a href="https://github.com/mosrat-jahan"><sub>@mosrat-jahan</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Nirob252">
+        <img src="https://github.com/Nirob252.png" width="100" alt="Md. Nuruzzaman Nirob" /><br />
+        <sub><b>Md. Nuruzzaman Nirob</b></sub>
+      </a><br />
+      <a href="https://github.com/Nirob252"><sub>@Nirob252</sub></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/shakila-akter">
+        <img src="https://github.com/shakila-akter.png" width="100" alt="Shakila Akter Alo" /><br />
+        <sub><b>Shakila Akter Alo</b></sub>
+      </a><br />
+      <a href="https://github.com/shakila-akter"><sub>@shakila-akter</sub></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/themediumguy05">
+        <img src="https://github.com/themediumguy05.png" width="100" alt="MD.SHAMS-IBNE-MOHSIN" /><br />
+        <sub><b>MD.SHAMS-IBNE-MOHSIN</b></sub>
+      </a><br />
+      <a href="https://github.com/themediumguy05"><sub>@themediumguy05</sub></a>
+    </td>
+  </tr>
+</table>
+
+| Member | GitHub Profile |
+| :--- | :--- |
+| **Atul Paul** | [https://github.com/atul-dev-ai](https://github.com/atul-dev-ai) |
+| **Md. Amzadullah Ratul** | [https://github.com/Amzadullah](https://github.com/Amzadullah) |
+| **mosrat-jahan** | [https://github.com/mosrat-jahan](https://github.com/mosrat-jahan) |
+| **Md. Nuruzzaman Nirob** | [https://github.com/Nirob252](https://github.com/Nirob252) |
+| **Shakila Akter Alo** | [https://github.com/shakila-akter](https://github.com/shakila-akter) |
+| **MD.SHAMS-IBNE-MOHSIN** | [https://github.com/themediumguy05](https://github.com/themediumguy05) |
 
 ## 📌 Current Progress
 
